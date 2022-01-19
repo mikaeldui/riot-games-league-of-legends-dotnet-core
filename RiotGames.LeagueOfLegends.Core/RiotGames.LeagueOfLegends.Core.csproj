@@ -12,15 +12,15 @@
     <Description>Core models for the MikaelDui.RiotGames.LeagueOfLegends.* packages.</Description>
     <PackageProjectUrl>https://github.com/mikaeldui/riot-games-league-of-legends-dotnet-core</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <PackageIcon>RiotGames.LeagueOfLegends.Core.png</PackageIcon>
+    <PackageIcon>Icon.png</PackageIcon>
     <RepositoryUrl>https://github.com/mikaeldui/riot-games-league-of-legends-dotnet-core</RepositoryUrl>
-    <PackageTags></PackageTags>
+    <PackageTags>LeagueOfLegends; RiotGames; LoL;</PackageTags>
     <PackageLicenseExpression>Unlicense</PackageLicenseExpression>
     <AssemblyName>MikaelDui.RiotGames.LeagueOfLegends.Core</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\RiotGames.LeagueOfLegends.Core.png">
+    <None Include="..\Icon.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
