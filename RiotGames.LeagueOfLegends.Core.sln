@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiotGames.LeagueOfLegends.Core", "RiotGames.LeagueOfLegends.Core\RiotGames.LeagueOfLegends.Core.csproj", "{9DF9FB20-EB0A-4C7B-BC45-3165CA31C0D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiotGames.LeagueOfLegends.Core.Tests", "RiotGames.LeagueOfLegends.Core.Tests\RiotGames.LeagueOfLegends.Core.Tests.csproj", "{950DBFFB-B7C6-4383-B8A8-175039B26D5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DF9FB20-EB0A-4C7B-BC45-3165CA31C0D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF9FB20-EB0A-4C7B-BC45-3165CA31C0D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF9FB20-EB0A-4C7B-BC45-3165CA31C0D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF9FB20-EB0A-4C7B-BC45-3165CA31C0D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{950DBFFB-B7C6-4383-B8A8-175039B26D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950DBFFB-B7C6-4383-B8A8-175039B26D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950DBFFB-B7C6-4383-B8A8-175039B26D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950DBFFB-B7C6-4383-B8A8-175039B26D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

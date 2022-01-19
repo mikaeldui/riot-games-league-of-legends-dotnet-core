@@ -1,4 +1,4 @@
-namespace {{Namespace}}
+namespace RiotGames.LeagueOfLegends
 {
     public class Class1
     {
